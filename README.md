@@ -143,16 +143,6 @@ The project demonstrates rapid prototyping, problem-solving, backend development
 
 ⸻
 
-👥 Team
-
-Developed for the TCS Hackathon.
-
-Team Members
-
-* Pritesh Sahoo
-* Add other team members here
-
-⸻
 
 📄 License
 
