@@ -103,3 +103,63 @@ canteen_ai/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+
+🔮 Future Improvements
+
+Although the project was developed within a 90-minute hackathon, the architecture can be extended with:
+
+* 🧠 More advanced AI/ML recommendations
+* 👤 User profiles and personalized preferences
+* ⭐ Food ratings and reviews
+* 🌶️ Spice-level preferences
+* 🥗 Vegetarian/vegan filtering
+* 💰 Budget-based recommendations
+* 📍 Real-time canteen availability
+* 📦 Stock availability tracking
+* 📊 Canteen analytics dashboard
+* 💳 Online food ordering
+* 📱 Mobile application
+* 🔔 Order and availability notifications
+
+⸻
+
+🏆 Hackathon Context
+
+This project was created as part of a 90-minute TCS Hackathon challenge.
+
+Development Focus
+
+During the limited development time, the team focused on:
+
+1. Building a working Django backend.
+2. Creating the food/menu data model.
+3. Implementing recommendation functionality.
+4. Connecting the database.
+5. Creating a functional frontend.
+6. Integrating the complete application flow.
+7. Making the application ready for demonstration.
+
+The project demonstrates rapid prototyping, problem-solving, backend development, database integration, and AI-assisted recommendation concepts under strict time constraints.
+
+⸻
+
+👥 Team
+
+Developed for the TCS Hackathon.
+
+Team Members
+
+* Pritesh Sahoo
+* Add other team members here
+
+⸻
+
+📄 License
+
+This project was created for educational and hackathon purposes.
+
+⸻
+
+⭐ Acknowledgements
+
+Thanks to TCS for providing the hackathon opportunity and challenge.
